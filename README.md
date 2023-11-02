@@ -6,8 +6,11 @@ How much land is used to grow this amount of crop. I have grouped data in such a
 
 #Insights:
     like which city grows which crop, and the amount of crop produced by that city.
+    
     In which season which crop is produced by each city and its amount.
+    
     land used to produce that amount of crop.
+    
     In which city how much land is used to produce that amount of crop.
     
 
