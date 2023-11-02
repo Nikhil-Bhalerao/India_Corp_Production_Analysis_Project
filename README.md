@@ -4,14 +4,14 @@
 In this project, I have cleaned data in Excel files. I have grouped data to find insight like in which season which kind of crop production is most.
 How much land is used to grow this amount of crop. I have grouped data in such a way that whoever is seeing the grouped data can answer any question easily with the help of the data.
 
-#Insights:
-    like which city grows which crop, and the amount of crop produced by that city.
+# Insights:
+like which city grows which crop, and the amount of crop produced by that city.
     
-    In which season which crop is produced by each city and its amount.
+In which season which crop is produced by each city and its amount.
     
-    land used to produce that amount of crop.
+land used to produce that amount of crop.
     
-    In which city how much land is used to produce that amount of crop.
+In which city how much land is used to produce that amount of crop.
     
 
 # Acknowledgements
